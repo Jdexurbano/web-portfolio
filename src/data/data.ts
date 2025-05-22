@@ -6,6 +6,33 @@ export const handleOpenLinkedinInNewTab = () => {
   window.open("https://www.linkedin.com/in/john-dexter-urbano/", "_blank");
 };
 
+export const experienceData = [
+  {
+    id: 1,
+    title: "Internnook",
+    possition: "Software Developer Intern",
+    year: "2025",
+  },
+  {
+    id: 2,
+    title: "BS Computer Science",
+    possition: "Naga College Foundation",
+    year: "2025",
+  },
+  {
+    id: 3,
+    title: "Freelance",
+    possition: "Freelance developer",
+    year: "2024",
+  },
+  {
+    id: 4,
+    title: "Hello World",
+    possition: "Wrote my first line of code",
+    year: "2020",
+  },
+];
+
 export const frontendData = [
   {
     id: 1,
