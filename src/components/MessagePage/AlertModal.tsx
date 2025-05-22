@@ -23,11 +23,11 @@ function AlertModal() {
           <AlertDialogTitle>🚧 Feature in Development</AlertDialogTitle>
           <AlertDialogDescription>
             This feature is currently under development. Please check back later
-            as we're working hard to bring it to you soon!
+            as i working hard to bring it to you soon!
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
-          <AlertDialogAction>Okay</AlertDialogAction>
+          <AlertDialogAction className="cursor-pointer">Okay</AlertDialogAction>
         </AlertDialogFooter>
       </AlertDialogContent>
     </AlertDialog>
